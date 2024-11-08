@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Virtual Piano",
-    "image": "https://imgur.com/tAZotn3.png",
+    "image": "https://imgur.com/5iC8dn6",
     "description": " responsive and interactive virtual piano that you can play using your mouse or keyboard.",
     "tags": ["vanilla javascript", "node", "html5", "css", "material-ui"],
     "source_code": "https://github.com/KoustavDevelops/virtual-piano",

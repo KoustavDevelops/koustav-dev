@@ -4,7 +4,7 @@
     "name": "Modern Pokedex",
     "image": "https://imgur.com/4l6cvuK.png",
     "description": "A sleek, interactive web-based Pokédex that brings your favorite Pokémon to life with detailed information, stats, and even their unique cries!",
-    "tags": ["vanilla javascript", "css", "html5", "pokeapi", "react-query"],
+    "tags": ["vanilla-javascript", "css", "html5", "pokeapi", "react-query"],
     "source_code": "https://github.com/KoustavDevelops/modern-pokedex",
     "demo": "https://koustavdevelops.github.io/modern-pokedex/"
   },
@@ -13,7 +13,7 @@
     "name": "Virtual Piano",
     "image": "https://imgur.com/5iC8dn6.png",
     "description": " responsive and interactive virtual piano that you can play using your mouse or keyboard.",
-    "tags": ["vanilla javascript", "node", "html5", "css", "material-ui"],
+    "tags": ["vanilla-javascript", "node", "html5", "css", "material-ui"],
     "source_code": "https://github.com/KoustavDevelops/virtual-piano",
     "demo": "https://koustavdevelops.github.io/virtual-piano/"
   },
@@ -22,7 +22,7 @@
     "name": "Virtual Popit",
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "A satisfying, interactive web-based fidget toy that simulates the popular pop-it/bubble pop fidget toys.",
-    "tags": ["vanilla javascript", "node", "css", "html5", "material-ui"],
+    "tags": ["vanilla-javascript", "node", "css", "html5", "material-ui"],
     "source_code": "https://github.com/KoustavDevelops/virtual-popit",
     "demo": "https://koustavdevelops.github.io/virtual-popit/"
   },

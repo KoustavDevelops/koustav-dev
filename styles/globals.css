@@ -9,10 +9,10 @@
 }
 
 /* Tags */
-.react {
+.vanilla-javascript {
   border: 0.1rem solid rgb(97, 218, 251);
 }
-.react:hover {
+.vanilla-javascript:hover {
   background: rgba(97, 218, 251, 0.25);
 }
 
@@ -30,17 +30,17 @@
   background: rgba(67, 153, 52, 0.25);
 }
 
-.redux {
+.css {
   border: 0.1rem solid rgb(118, 74, 188);
 }
-.redux:hover {
+.css:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 
-.razorpay {
+.html5 {
   border: 0.1rem solid rgb(82, 143, 240);
 }
-.razorpay:hover {
+.html5:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
@@ -51,24 +51,24 @@
   background: rgba(25, 118, 210, 0.25);
 }
 
-.bulma {
+.python {
   border: 0.1rem solid rgb(0, 209, 178);
 }
-.bulma:hover {
+.python:hover {
   background: rgb(0, 209, 178, 0.25);
 }
 
-.next {
+.flask {
   border: 2px solid rgb(0, 112, 243);
 }
-.next:hover {
+.flask:hover {
   background: rgba(0, 112, 243, 0.25);
 }
 
-.tailwind {
+.mysql {
   border: 2px solid rgb(6, 182, 212);
 }
-.tailwind:hover {
+.mysql:hover {
   background: rgba(6, 182, 212, 0.25);
 }
 

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Modern Pokedex",
-    "image": "https://imgur.com/4l6cvuK.png",
+    "image": "",
     "description": "A sleek, interactive web-based Pokédex that brings your favorite Pokémon to life with detailed information, stats, and even their unique cries!",
     "tags": ["vanilla javascript", "css", "html5", "pokeapi", "react-query"],
     "source_code": "https://github.com/KoustavDevelops/modern-pokedex",

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import GitHubCalendar from 'react-github-calendar';
+// import GitHubCalendar from 'react-github-calendar';
 import RepoCard from '../components/RepoCard';
 import styles from '../styles/GithubPage.module.css';
 
@@ -43,12 +43,12 @@ const GithubPage = ({ repos, user }) => {
         ))}
       </div>
       <div className={styles.contributions}>
-        <GitHubCalendar
+        {/* <GitHubCalendar
           username={process.env.NEXT_PUBLIC_GITHUB_USERNAME}
           theme={theme}
           hideColorLegend
           hideMonthLabels
-        />
+        /> */}
       </div>
     </>
   );

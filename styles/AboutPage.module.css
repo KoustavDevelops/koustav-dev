@@ -1,0 +1,55 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+  .section {
+    margin-bottom: 2rem;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #2980b9;
+  }
+  
+  .introduction {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .highlight {
+    color: #e74c3c;
+    font-weight: bold;
+  }
+  
+  .skillsList {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .skillItem {
+    margin-bottom: 0.3rem;
+  }
+  
+  .education {
+    margin-top: 0.5rem;
+    color: #555;
+  }
+  
+  .description {
+    margin-top: 0.5rem;
+    color: #555;
+  }
+  
